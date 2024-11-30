@@ -7,7 +7,7 @@
 
 ## Tarea 2 - Redes Convolucionales
 
-Esta tarea compara el desempeño de un Perceptrón Multicapa (MLP) y una Red Neuronal Convolucional (CNN) en la tarea de clasificación binaria de imágenes de muffins y chihuahuas. El dataset utilizado para esta tarea se encuentra en [Kaggle](https://www.kaggle.com/code/surya12345/muffin-vs-chihuaha-image-classification). 
+Esta tarea compara el desempeño de un Perceptrón Multicapa (MLP) y una Red Neuronal Convolucional (CNN) en la tarea de clasificación binaria de imágenes de muffins y chihuahuas. El dataset utilizado para esta tarea se encuentra en [Kaggle](https://www.kaggle.com/datasets/samuelcortinhas/muffin-vs-chihuahua-image-classification). 
 
 ## Descripción
 
